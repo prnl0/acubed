@@ -1,6 +1,6 @@
-# ACubed
+# ACubed (archived)
 
-A (no longer maintained) multi-hack for [AssaultCube](https://assault.cubers.net/) (v1.2.0.2).
+A multi-hack for [AssaultCube](https://assault.cubers.net/) (v1.2.0.2).
 
 
 ## Features
